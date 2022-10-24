@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sachinvab/static/css/main.42a41c3f.css",
+    "main.js": "/sachinvab/static/js/main.67e1343e.js",
+    "static/media/background.jpg": "/sachinvab/static/media/background.8b3c07205a00a7f3bf28.jpg",
+    "index.html": "/sachinvab/index.html",
+    "main.42a41c3f.css.map": "/sachinvab/static/css/main.42a41c3f.css.map",
+    "main.67e1343e.js.map": "/sachinvab/static/js/main.67e1343e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a41c3f.css",
+    "static/js/main.67e1343e.js"
+  ]
+}
